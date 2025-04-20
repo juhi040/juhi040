@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💻 I'm a full-stack web developer with a passion for building responsive and user-friendly web applications.
+- 💻 I'm a web developer with a passion for building responsive and user-friendly web applications.
 - 🌱 Currently enhancing my skills in modern JavaScript frameworks and backend technologies.
 - 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)

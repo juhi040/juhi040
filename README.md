@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Juhi 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Passionate+about+clean+code+%26+UI/UX;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Web+Developer;Passionate+about+clean+code+%26+UI/UX;Always+learning+something+new" />
 </p>
 
 ---
